@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Retrocam, I'm an industrial enginner 
-- 👀 I’m interested in web development, ecommerce and sports.
-- 🌱 I’m currently learning about automatization, ecommerce, html, css, python and Java.
-- 💞️ I was working like digital commerce specialist. 
+- 👀 I’m interested in Automation, develop, ecommerce and sports.
+- 🌱 I’m currently learning about Automation, html, css, python and Java.
+- 💞️ I’m working like Automation Analist. 
 - 📫 How to reach me -> utpcamilo@gmail.com
 
 <!---
